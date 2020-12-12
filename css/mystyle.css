@@ -1,0 +1,21 @@
+.container{
+    background-color:red;
+}
+.row1{
+    background-color:gray;
+    
+}
+.row2{
+    background-color:lightblue;
+}
+.col{
+     border:solid green 2px;
+}
+.box{
+    border:solid black 2px;
+}
+.footer{
+    background-color: darkblue;
+}
+
+

@@ -1,0 +1,47 @@
+h2{
+    text-align:center;
+    color:green;
+    font-weight:12px;
+}
+.boxA{
+
+    background-color: gray;
+   
+}
+.boxa{
+    border-radius:20px 20px 0px 0px;
+}
+.cola{
+    
+    background-color: white;
+     border-radius:20px 20px 0px 0px;
+    padding:0px;
+}
+.col1{
+    padding:0px;
+}
+.boxC{
+    background-color:blue;
+    color:white;
+    height:200px;
+}
+.col22{
+    background-color:lightblue;
+    border-radius: 20px 0px 0px 20px;
+   
+}
+.bar1,.bar2{
+    border:solid white 1px;
+    
+}
+.col23{
+    z-index: 2;
+   
+
+}
+.boxD{
+     background-color: rgb(241, 238, 238);
+}
+.boxE{
+     text-align:center;
+}

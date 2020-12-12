@@ -1,0 +1,9 @@
+.box{
+    border:solid red 2px;
+}
+.container-fluid{
+    background-color: gray;
+}
+.footer{
+    background-color:darkgreen;
+}
